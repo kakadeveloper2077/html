@@ -1,4 +1,4 @@
-🟧 HTML
+🟧 HTML<br><br>
 
-🔰 A Hyper Text Markup Language, which allows, us to build of the structure from the websites.
+🔰 A Hyper Text Markup Language, which allows, us to build of the structure from the websites. <br><br>
 🔰 On This repository, i put every html tag, which gives to me an feedback, each tag has a number, there yourself can identify how much you know, and if you´re not having success on creating a simple web page, or UI, here you can check it out :), i already know since i´ve created the decimal to binary & word generator UI.
